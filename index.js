@@ -13,12 +13,11 @@ const tambahan = require("./lib/tambahan.js")
 const donasi = require("./lib/donasi.js");
 const info = require("./lib/info.js");
 /////////////////
-const BotName = 'RIDHO BOT'; 
-const instagram = 'https://www.instagram.com/ridho_setiawan02/'; 
-const whatsapp = 'https://wa.me/6281289096745'; 
+const BotName = 'MYBOT🤖'; 
+const instagram = 'https://www.instagram.com/davellyno.djossie?r=nametag'; 
+const whatsapp = 'https://wa.me/6288291819839'; 
 const kapanbotaktif = 'KETIKA HANYA DIAKTIFKAN'; 
-const youtube = 'https://youtube.com/c/Lowoijo';
-//const grupch1 = 'https://chat.whatsapp.com/LX1nAiZUuB5FmTCMwe0o4g'; 
+//const grupch1 = 'https://chat.whatsapp.com/JMWXHNUbHYtHYWBLweyCPD'; 
 //const grupch2 = 'belum ada grup' ; 
 const
 {
